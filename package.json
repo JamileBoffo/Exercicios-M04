@@ -1,0 +1,25 @@
+{
+  "name": "exercicios-m04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "build": "npx tsc",
+    "build-and-run": "npm run build && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamileBoffo/Exercicios-M04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamileBoffo/Exercicios-M04/issues"
+  },
+  "homepage": "https://github.com/JamileBoffo/Exercicios-M04#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
